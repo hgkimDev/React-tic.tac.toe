@@ -1,1 +1,1 @@
-https://hgkim7.github.io/React-tic.tac.toe/
+https://hgkimdev.github.io/React-tic.tac.toe/
